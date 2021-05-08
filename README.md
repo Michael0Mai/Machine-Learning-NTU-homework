@@ -3,4 +3,6 @@
  1. 程序可以运行
  2. 由于水平有限，程序由助教的答案修改而来，并加入自己的注释和笔记
 
+
+
 2. 所有的习题材料 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html 可以在这里搬运过来
