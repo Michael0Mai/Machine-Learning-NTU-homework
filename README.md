@@ -1,8 +1,7 @@
 # 台湾大学 机器学习课程，李宏毅，2020，课程作业
+
 1.包含作业材料和程序
  1. 程序可以运行
  2. 由于水平有限，程序由助教的答案修改而来，并加入自己的注释和笔记
 
-
-
-2. 所有的习题材料 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html 可以在这里搬运过来
+2.所有的习题材料 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html 可以在这里搬运过来(注意：助教的代码不一定可以运行起来)
