@@ -3,5 +3,8 @@
 1.包含作业材料和程序
  1. 程序可以运行
  2. 由于水平有限，程序由助教的答案修改而来，并加入自己的注释和笔记
+ 3. 注意：助教的代码不一定可以运行起来，需要自己补充完整或修改
 
-2.所有的习题材料 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html 可以在这里搬运过来(注意：助教的代码不一定可以运行起来)
+2.课程的主页 http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
+ 1. 包含所有的视频和PPT以及习题的材料
+ 2. 大陆境内观看可以在这里 https://www.bilibili.com/video/BV1y54y117qE 找到课程视频，视频顺序不对，以课程主页为准
